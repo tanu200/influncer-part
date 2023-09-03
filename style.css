@@ -58,3 +58,10 @@ button {
     border: none;
     color: aliceblue;
 }
+
+/****logos***/
+.logos {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
