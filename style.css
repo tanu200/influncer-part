@@ -101,3 +101,12 @@ button {
 .feature-area {
     margin-left: 30px;
 }
+
+/*****footer*/
+footer {
+    text-align: center;
+    padding: 40px;
+    background-color: #0A0826;
+    color: #FFF;
+    margin-top: 50px;
+}
