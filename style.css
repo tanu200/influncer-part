@@ -30,3 +30,31 @@ body {
     font-size: 16px;
 
 }
+
+.header {
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.header-title {
+    color: #3A3A3A;
+    font-size: 52px;
+    font-weight: 700;
+
+}
+
+.paragrap {
+    color: #3A3A3A;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+button {
+    border-radius: 41px;
+    background: #E02C6D;
+    padding: 10px 24px;
+    border: none;
+    color: aliceblue;
+}
