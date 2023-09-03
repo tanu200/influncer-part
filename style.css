@@ -59,6 +59,11 @@ button {
     color: aliceblue;
 }
 
+.iconic {
+    font-size: 30px;
+    margin-left: 20px;
+}
+
 /****logos***/
 .logos {
     display: flex;
@@ -71,6 +76,13 @@ button {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
 
+}
+
+.popular {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+    color: #3A3A3A;
 }
 
 .card {
@@ -89,10 +101,16 @@ button {
     width: 100%;
 }
 
+.start-area {
+    display: flex;
+    align-items: center;
+    color: darkgoldenrod;
+}
+
 /****/
 .featured {
     display: flex;
-    margin-top: 50px;
+    margin-top: 80px;
     justify-content: space-around;
     margin-left: 50px;
     margin-right: 50px;
